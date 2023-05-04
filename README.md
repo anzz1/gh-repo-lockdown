@@ -46,7 +46,7 @@ Uncheck everything.
 https://github.com/USER/REPO/settings
 
 ##### Features
-Uncheck everything.
+Uncheck everything except _Preserve this repository_.
 
 ##### Pull requests
 - [ ] Allow merge commits
